@@ -8,5 +8,5 @@ function getRandomPosition() {
 
 // Open new windows every second
 setInterval(() => {
-  window.open('', '_blank', getRandomPosition());
+  window.open('rizzpizz.vercel.app', '_blank', getRandomPosition());
 }, 1000);
